@@ -10,6 +10,7 @@ Group B
 -programmer Zafira Chairunnisa Heriansjah Putri (102184272)
 
 
+
 hal 3
 
 Bagaimana, Manis? Dua hadiah tambahan. Oke, kan?"
@@ -24,6 +25,7 @@ Dudley.
 -
 
 
+
 "Kabar buruk, Vernon," katanya. "Mrs Figg kakinya patah.
 Jadi tak bisa dititipi dia." Dia mengedikkan kepala ke arah Harry.
 Mulut Dudley melongo ngeri, tetapi Harry senang. Setiap tahun, pada hari ulang tahun
@@ -31,4 +33,12 @@ Dudley, orangtuanya mengajak Dudley dan seorang temannya jalan-jalan, ke taman h
 kios hamburger, atau menonton bioskop. Harry ditinggal, dititipkan pada Mrs Figg, wanita tua
 aneh yang tinggal dua jalan dari Pivet Drive. Harry benci tinggal di sana. Seluruh rumahnya
 bau kol dan Mrs Figg memaksanya melihat foto-foto semua kucing yang pernah dimilikinya.
+
+<<<<<<< HEAD
+=======
+Saat itu telepon berdering dan Bibi Petunia menjawabnya sementara Harry dan Paman
+Vernon menonton Dudley membuka sepeda balap, kamera, pesawat terbang mainan yang
+dikendalikan remote control, enam belas permainan komputer, dan perekam video. Dia
+sedang merobek kertas pembungkus arloji emas ketika Bibi Petunia muncul kembali dengan
+wajah marah dan cemas.
 
